@@ -1,0 +1,10 @@
+# Ignore Visual Studio temporary files
+.vs/
+bin/
+obj/
+
+# Other folders you usually don't track
+*.user
+*.cache
+*.suo
+*.pdb
